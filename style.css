@@ -1,0 +1,36 @@
+h1 {
+  font-family: "Major Mono Display", monospace;
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+  font-style: normal;
+  font-size: 40px;
+}
+
+body {
+  background-image: url("images/acr4.png");
+  background-size: cover;
+}
+
+h2 {
+  font-family: "Bruno Ace SC", sans-serif;
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+  font-style: normal;
+  font-size: 60px;
+}
+p {font-family: "Major Mono Display", monospace;
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+  font-style: normal;
+  font-size: 36px;
+}
+.container {
+  background-image: url("images/denim.png");
+  background-size: contain;
+  width: 800px;
+}
+.express {
+  background-color: rgb(238, 5, 5);
+  background-size: contain;
+  width: 400px;
+}
